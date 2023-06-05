@@ -1,0 +1,12 @@
+{
+    "Register": {
+        "FirstName": "#firstname",
+        "LastName": "#lastname",
+        "UserName": "#userName",
+        "Password": "#password",
+        "Captcha": "#recaptcha-anchor",
+        "Register": "#register",
+        "BackToLogin": "#gotologin"
+    }
+    
+}
